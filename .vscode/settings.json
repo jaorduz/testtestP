@@ -2,7 +2,7 @@
     "xml.fileAssociations": [
         {
             "pattern": "**/source/**.ptx",
-            "systemId": "/home/shrodinger/.ptx/schema/pretext.rng"
+            "systemId": "/Users/JO/.ptx/schema/pretext.rng"
         }
     ]
 }
