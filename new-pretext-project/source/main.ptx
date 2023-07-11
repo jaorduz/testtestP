@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<xi:include href="./docInfo.ptx" />
+
+  <book xml:id="my-great-book">
+    <title>My Great Book</title>
+    <subtitle>An example to get you started</subtitle>
+      <xi:include href="./frontMatter.ptx" />
+
+    <chapter xml:id="chapter-title">
+      <title>Chapter title</title>
+        <xi:include href="./chp-one.ptx" />
+        <!-- <xi:include href="./ssec-one.ptx" /> -->
+    </chapter>
+
+
+    <xi:include href="./backMatter.ptx" />
+
+  </book>
+</pretext>
